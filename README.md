@@ -3,7 +3,9 @@ I decided to pursue Computer Science because nothing beats the satisfaction of c
 and seeing a tangible product run after multiple debugging session. 
 Projects never feel unfinished and there are always way to improve my projects thus making it refreshing to look at my previous projects to see how far I've come.
 
-Find me at [Link](anthonyqanguyen212@gmail.com)
+Contact me at   
+[Discord](discordapp.com/users/)  
+Email: anthonyqanguyen212@gmail.com
 
 <!--
 **anthoqn2/anthoqn2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
