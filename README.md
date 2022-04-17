@@ -1,5 +1,5 @@
 ### **Hey There! I'm Anthony Nguyen, a first year at UC Irvine pursuing a Computer Science B.S.**  
-I decided to pursue Computer Science because nothing could surpass the satisfaction of completing a programming project   
+I decided to pursue Computer Science because nothing could surpass the satisfaction of completing a programming project 
 and seeing a tangible product run after multiple debugging session. 
 Projects never feel unfinished and there are always way to improve my projects thus making it refreshing to look at my previous projects to see how far I've come.
 
