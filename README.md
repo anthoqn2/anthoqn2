@@ -5,7 +5,7 @@ Projects never feel unfinished and there are always way to improve my projects t
 
 Contact me at   
 [Discord](https://www.discordapp.com/users/169237816017027077)  
-Email: anthonyqanguyen212@gmail.com
+Email: anthonyqanguyen212@gmail.com  
 [Linkedin]: (https://www.linkedin.com/in/anthonyqanguyen/)
 
 <!--
