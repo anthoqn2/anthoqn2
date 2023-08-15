@@ -6,7 +6,7 @@ Projects never feel unfinished and there are always way to improve my projects t
 Contact me at   
 [Discord](https://www.discordapp.com/users/169237816017027077)  
 Email: anthonyqanguyen212@gmail.com  
-[Linkedin]: (https://www.linkedin.com/in/anthonyqanguyen/)
+[Linkedin]: (https://www.linkedin.com/in/anthonyqanguyen/)  
 
 <!--
 **anthoqn2/anthoqn2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
