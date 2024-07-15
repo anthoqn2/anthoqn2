@@ -4,8 +4,8 @@ and seeing a tangible product run after multiple debugging session.
 Projects never feel unfinished and there are always way to improve my projects thus making it refreshing to look at my previous projects to see how far I've come.
 
 Contact me at   
+anthonyqanguyen212@gmail.com  
 [Discord](https://www.discordapp.com/users/169237816017027077)  
-Email: anthonyqanguyen212@gmail.com  
 [Linkedin](https://www.linkedin.com/in/anthonyqanguyen/)  
 
 <!--
