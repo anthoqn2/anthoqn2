@@ -1,7 +1,8 @@
-### **Hey There! I'm Anthony Nguyen, a fourth year student at UC Irvine pursuing a Computer Science B.S.**  
-I decided to pursue Computer Science because nothing could surpass the satisfaction of completing a programming project 
-and seeing a tangible product run after multiple debugging session. 
-Projects never feel unfinished and there are always way to improve my projects thus making it refreshing to look at my previous projects to see how far I've come.
+### **Hey There! I'm Anthony Nguyen - a Software Analyst at Deloitte Consulting**  
+I pursued Computer Science because few things compare to the satisfaction of bringing a programming project to life — watching it finally run after countless debugging sessions.
+What I love most about software development is that no project ever truly feels complete; there are always new ways to refine, optimize, and improve. It’s rewarding to look back at my earlier work and see how much I’ve grown along the way.
+
+After graduating from UCI, I was fortunate to find a role at Deloitte Consulting where I get to do what I love every day — solving problems, building solutions, and continually learning.
 
 Contact me at   
 anthonyqanguyen212@gmail.com  
